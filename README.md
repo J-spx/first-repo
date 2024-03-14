@@ -1,2 +1,2 @@
-# first-repo
-first repository 
+# ooh-lala
+My First Github Repository--ooh-lala
